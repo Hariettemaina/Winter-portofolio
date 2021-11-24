@@ -1,0 +1,37 @@
+body {
+    color: black;
+    background-color: #faebd7;
+}
+h1 {
+    color: blueviolet;
+    text-decoration: underline;
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+h2 {
+    color: red;
+    text-decoration: underline;
+}
+.center {
+    text-align: center;
+}
+h3 {
+    color: rgb(238, 130, 238);
+    text-align: justify;
+    font-style: normal;
+}
+p {
+    color: cadetblue;
+}
+ol, li {
+    color: cadetblue;
+}
+h4 {
+    color:crimson;
+}
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
